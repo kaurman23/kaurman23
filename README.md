@@ -19,13 +19,13 @@
 
 <br />
 
-Hi, I'm [Manpreet Kaur](https://manpreet.netlify.app), a Full Stack Developer 🚀 from India. Currently, I'm a final year engineering student.I enjoy the process of learning and building stuff. Whenever I am not coding, I like to spend my time reading books.
+Hi, I'm [Manpreet Kaur](https://manpreet.netlify.app), a Full Stack Developer 🚀 from India. Currently, I'm a final year engineering student. I enjoy the process of learning and building stuff. Whenever I am not coding, I like to spend my time reading books.
   
 **Talking about Personal Stuffs:**
 
 - 💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning MERN stack devlopment.; 
-- 📖 I'm reading Infinite Jest by David Walter.
+- 🌱 I’m currently learning MERN stack development.; 
+- 📖 I'm reading Infinite Jest by David Foster Wallace.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@kaurman](https://www.linkedin.com/in/kaurman/);
 - 📝[Resume](https://drive.google.com/file/d/13zNJUf0RhJNMAv6KcDTlf96nFHm0znss/view?usp=sharing)

@@ -25,7 +25,7 @@ Hi, I'm [Manpreet Kaur](https://manpreet.netlify.app), a Full Stack Developer �
 
 - 💻 I’m currently working as Software Engineer Intern at DataGrokr Analytics Private Limited;
 - 🌱 I’m currently learning MERN stack development; 
-- 📖 I'm reading Infinite Jest by David Foster Wallace;
+- 📖 I'm reading a Little Life by Hanya Yanagihara;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@kaurman](https://www.linkedin.com/in/kaurman/);
 - 📝 [Resume](https://drive.google.com/file/d/13zNJUf0RhJNMAv6KcDTlf96nFHm0znss/view?usp=sharing)

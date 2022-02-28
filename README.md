@@ -19,7 +19,7 @@
 
 <br />
 
-Hi, I'm [Manpreet Kaur](https://manpreet.netlify.app), a Full Stack Developer 🚀 from India. Currently, I'm a final year engineering student. I enjoy the process of learning and building stuff. Whenever I am not coding, I like to spend my time reading books.
+Hi, I'm [Manpreet Kaur](https://manpreet.netlify.app), a Full Stack Developer 🚀 from India. Currently, I am working as a software engineer at Datagrokr Analytics Ltd. I enjoy the process of learning and building stuff. Whenever I am not coding, I like to spend my time reading books.
   
 **Some things about me:**
 
